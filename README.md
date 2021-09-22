@@ -1,4 +1,13 @@
-### Hi there 👋
+### Nino van der Mark
+Software developer, husband, father and literal evangelist.
+
+Working for Ohpen with C# .NET to create Cloud-native banking applications.
+
+I'm also very interested in creating video games, and looking for good build-once, deploy anywhere solutions for creating these, especially ones including the web as build target.
+
+[Stackoverflow](https://stackoverflow.com/users/11094413/nino-van-der-mark)
+
+[Twitter](https://twitter.com/NinovanderMark)
 
 <!--
 **NinovanderMark/NinovanderMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
