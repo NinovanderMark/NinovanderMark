@@ -8,3 +8,5 @@ I'm also very interested in creating video games, and looking solutions to build
 - Linux
 - Mac
 - Web (HTML/Javascript/WASM)
+
+Feel free to check out my personal website on GitHub: https://ninovandermark.github.io/
