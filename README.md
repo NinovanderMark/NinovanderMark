@@ -8,4 +8,4 @@ Working for 4Dotnet as a consultant for C#/.NET, focusing on cloud-native applic
 
 Once upon a time, I messed around with GitHub pages, check out what that looks like here: https://ninovandermark.github.io/
 
-You can reach me on 🐔[Twitter](https://twitter.com/NinovanderMark) or [Mastodon](https://fosstodon.org/@ninovandermark)
+You can reach me on 🐔[Twitter](https://twitter.com/NinovanderMark) or 🐘[Mastodon](https://fosstodon.org/@ninovandermark)
